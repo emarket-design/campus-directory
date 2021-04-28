@@ -1,0 +1,2286 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-03-30T13:54:10-04:00\n"
+"POT-Creation-Date: 2021-03-30T13:54:10-04:00\n"
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:21
+msgid "File Size is greater than allowed limit."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:22
+msgid "Invalid file type."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:72
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:96
+msgid "Max number of files: %s"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:99
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:107
+msgid "Max file size: %s"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/file.php:110
+msgid "File extensions allowed: %s"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "This field is required."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please fix this field."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:131
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:132
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:133
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./campus-directory/assets/ext/emd-meta-box/inc/meta-box.php:297
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/box.php:55
+msgid "Are you sure you want to delete all connections?"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/box.php:137
+msgid "Search"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/box.php:218
+msgid "previous"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/box.php:219
+msgid "next"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/box.php:220
+msgid "of"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/factory.php:46
+msgid " (from)"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/factory.php:47
+msgid " (to)"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/fields.php:7
+msgid "Delete all connections"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/admin/fields.php:16
+msgid "Delete connection"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:19
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:20
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:37
+msgid "Title:"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:44
+msgid "Connection type:"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:49
+msgid "Connection listing:"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:55
+msgid "connected"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/extra.php:56
+msgid "related"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/side.php:247
+msgid "Users"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/side.php:257
+msgid "Search Users"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/side.php:258
+msgid "No users found."
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/type.php:101
+msgid "Create connections"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/core/type.php:121
+msgid "Connected %s"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/scb/AdminPage.php:170
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/scb/AdminPage.php:183
+#: ./campus-directory/assets/ext/posts-to-posts/scb/AdminPage.php:194
+msgid "Save Changes"
+msgstr ""
+
+#: ./campus-directory/assets/ext/posts-to-posts/scb/AdminPage.php:343
+msgid "Settings"
+msgstr ""
+
+#: ./campus-directory/includes/admin/class-emd-list-table.php:134
+msgid "Attribute"
+msgstr ""
+
+#: ./campus-directory/includes/admin/class-emd-list-table.php:137
+msgid "Taxonomy"
+msgstr ""
+
+#: ./campus-directory/includes/admin/class-emd-list-table.php:145
+msgid "Copy"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:19
+msgid "Global"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:56
+msgid "%s is required."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:144
+msgid "Frontend Map Settings"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:145
+msgid "Width"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:145
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:146
+msgid "Height"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:146
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:147
+msgid "Zoom"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:156
+msgid "Type"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:166
+msgid "Marker"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:167
+msgid "Marker Title"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:167
+msgid "Sets the marker title when hover."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:168
+msgid "Info Window"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:168
+msgid "Sets the content of the info box. You can use html tags."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:169
+msgid "Display Info Window on Page Load"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-globs.php:170
+msgid "You can drag and drop the marker to specify the exact location."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:35
+msgid "Misc"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:82
+msgid "Google Maps API Key"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:89
+msgid "Google requires api key to access google map service. By default we provide a complimentary key. Get your own google maps api key to avoid service interruptions"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:93
+msgid "Disable Bootstrap CSS"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:103
+msgid "Disables loading of Bootstrap stylesheet in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based stylesheet."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:105
+msgid "Disable Bootstrap JS"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:115
+msgid "Disables loading of Bootstrap JavaScript in plugin related pages when checked. You may need to disable it if your theme already uses Bootstrap based JavaScript."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:119
+msgid "Autocomplete Minimum Input Length"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:128
+msgid "Autocomplete Number of Results Returned"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:139
+msgid "No Access Message"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:140
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:143
+msgid "Show Register / Login Form"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:145
+msgid "Only Message"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:146
+msgid "Registration and Login Forms"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:147
+msgid "Only Login Form"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions-misc.php:156
+msgid "Display the registration and login forms on the pages non-logged-in users don't have access to."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:45
+msgid "Entities"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:61
+msgid "Taxonomies"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:64
+msgid "Tools"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:67
+msgid "Settings Saved."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:193
+#: ./campus-directory/includes/admin/settings-functions.php:1229
+msgid "Base slug"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:196
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:198
+msgid "Single template"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:202
+#: ./campus-directory/includes/admin/settings-functions.php:1238
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:202
+#: ./campus-directory/includes/admin/settings-functions.php:1238
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:202
+#: ./campus-directory/includes/admin/settings-functions.php:1238
+msgid "Full Width"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:210
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:212
+#: ./campus-directory/includes/admin/settings-functions.php:1248
+msgid "Container type"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:216
+#: ./campus-directory/includes/admin/settings-functions.php:263
+#: ./campus-directory/includes/admin/settings-functions.php:1252
+msgid "Fixed"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:216
+#: ./campus-directory/includes/admin/settings-functions.php:263
+#: ./campus-directory/includes/admin/settings-functions.php:1252
+msgid "Full"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:224
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for single %s. Full type provides a full width container, spanning the entire width of the viewport for single %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:226
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:233
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:235
+msgid "Hide edit links"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:242
+msgid "Hides edit %s link on the frontend for single %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:246
+msgid "Archive template"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:257
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:259
+msgid "Archive container type"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:271
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for archive %s. Full type provides a full width container, spanning the entire width of the viewport for archive %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:273
+#: ./campus-directory/includes/admin/settings-functions.php:1262
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:280
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:285
+#: ./campus-directory/includes/admin/settings-functions.php:289
+#: ./campus-directory/includes/admin/settings-functions.php:292
+#: ./campus-directory/includes/admin/settings-functions.php:579
+#: ./campus-directory/includes/admin/settings-functions.php:635
+#: ./campus-directory/includes/admin/settings-functions.php:1147
+#: ./campus-directory/includes/admin/settings-functions.php:1176
+msgid "Enable"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:286
+#: ./campus-directory/includes/admin/settings-functions.php:290
+#: ./campus-directory/includes/admin/settings-functions.php:580
+#: ./campus-directory/includes/admin/settings-functions.php:636
+#: ./campus-directory/includes/admin/settings-functions.php:1148
+#: ./campus-directory/includes/admin/settings-functions.php:1177
+msgid "Disable"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:287
+#: ./campus-directory/includes/admin/settings-functions.php:293
+#: ./campus-directory/includes/admin/settings-functions.php:581
+#: ./campus-directory/includes/admin/settings-functions.php:637
+#: ./campus-directory/includes/admin/settings-functions.php:1149
+#: ./campus-directory/includes/admin/settings-functions.php:1178
+msgid "Show only in Admin"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:305
+#: ./campus-directory/includes/admin/settings-functions.php:306
+#: ./campus-directory/includes/admin/settings-functions.php:1131
+#: ./campus-directory/includes/admin/settings-functions.php:1132
+msgid "Show"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:305
+#: ./campus-directory/includes/admin/settings-functions.php:306
+#: ./campus-directory/includes/admin/settings-functions.php:1131
+#: ./campus-directory/includes/admin/settings-functions.php:1132
+msgid "Do not show"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:306
+#: ./campus-directory/includes/admin/settings-functions.php:1132
+msgid "Allow Edit"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:413
+msgid "Featured Image"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:690
+msgid "Attributes"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:692
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Show only in Admin: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:701
+#: ./campus-directory/includes/admin/settings-functions.php:1166
+msgid "Visibility"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:703
+#: ./campus-directory/includes/admin/settings-functions.php:1168
+msgid "Visitor"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:725
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:732
+msgid "Shows all %s to logged in and non-logged in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:739
+msgid "Use the options below to customize file uploads."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:742
+#: ./campus-directory/includes/admin/settings-functions.php:925
+msgid "Maximum files"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:752
+#: ./campus-directory/includes/admin/settings-functions.php:932
+msgid "Sets the maximum number of allowable file uploads."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:755
+#: ./campus-directory/includes/admin/settings-functions.php:934
+msgid "Maximum file size"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:770
+#: ./campus-directory/includes/admin/settings-functions.php:946
+msgid "Sets the maximum uploadable file size in kilobytes. Your server allows up to %s KB. Leave it blank to use server limit."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:772
+#: ./campus-directory/includes/admin/settings-functions.php:948
+msgid "Allowed file extensions"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:782
+#: ./campus-directory/includes/admin/settings-functions.php:955
+msgid "Sets the file extensions allowed to upload. Seperate each extension by a comma. For example: jpg,png,pdf"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:789
+#: ./campus-directory/includes/admin/settings-functions.php:814
+msgid "Use the option below to select a default."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:791
+msgid "Default Country"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:816
+msgid "Default State"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:846
+msgid "Use the options below to customize %s %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:848
+msgid "Set placeholder"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:851
+msgid "Join the discussion..."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:858
+msgid "Set the depth of threaded (nested) comments"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:869
+msgid "All"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:874
+msgid "None"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:884
+msgid "Posts per page"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:896
+msgid "Show labels for user roles"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:902
+msgid "Displays the default plugin user roles (%s) next to the user name in a response box when a user belonging to that role leaves a reply."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:905
+msgid "Enable file uploads"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:917
+msgid "Enable file uploads for non-logged in users"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1008
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1031
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1143
+msgid "Availability"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1159
+#: ./campus-directory/includes/admin/settings-functions.php:1224
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Show only in Admin: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1231
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1234
+msgid "Template"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1246
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1260
+msgid "Change this if the sidebars are getting out of your page boundry. Fixed type provides a responsive fixed width container for this taxonomy. Full type provides a full width container, spanning the entire width of the viewport for this taxonomy."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1269
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1306
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1317
+#: ./campus-directory/includes/admin/settings-functions.php:1319
+msgid "Install pages"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1320
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1322
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1329
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1331
+msgid "Delete all settings"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1338
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1340
+msgid "Delete all data"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1353
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1355
+msgid "Custom CSS"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1359
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1361
+msgid "Custom JS"
+msgstr ""
+
+#: ./campus-directory/includes/admin/settings-functions.php:1365
+msgid "Custom JS allows you to add your own JavaScript. The JavaScript code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:20
+msgid "Visual ShortCode Builder"
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:25
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:34
+msgid "The following shortcodes are provided by default. To use the shortcode, click copy button and paste it in a page."
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:26
+msgid "To create advanced shortcodes click Create New button."
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:29
+msgid "ShortCodes"
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:35
+msgid "To learn more on how to create new shortcodes with filters go to the %s documentation.%s"
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:62
+msgid "Error: Please try again."
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:88
+msgid "Form"
+msgstr ""
+
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:93
+#: ./campus-directory/includes/admin/shortcode-list-functions.php:98
+msgid "View"
+msgstr ""
+
+#: ./campus-directory/includes/admin/store-functions.php:24
+msgid "Browse All"
+msgstr ""
+
+#: ./campus-directory/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./campus-directory/includes/admin/store-functions.php:64
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./campus-directory/includes/admin/store-functions.php:64
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./campus-directory/includes/admin/store-functions.php:89
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:23
+msgid "Please Select"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:35
+msgid "Standards"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:52
+msgid "AutoCompletes"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:60
+msgid "Integrations"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:71
+msgid "Charts"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:87
+msgid "Datagrids"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:95
+msgid "Calendars"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:177
+msgid "Create Shortcodes"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:178
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:183
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:205
+#: ./campus-directory/includes/admin/wpas-btn-functions.php:206
+msgid "Create shortcodes using Visual Shortcode Builder"
+msgstr ""
+
+#: ./campus-directory/includes/common-functions.php:385
+msgid "Author:"
+msgstr ""
+
+#: ./campus-directory/includes/common-functions.php:386
+#: ./campus-directory/includes/common-functions.php:544
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./campus-directory/includes/common-functions.php:551
+#: ./campus-directory/includes/common-functions.php:557
+#: ./campus-directory/includes/common-functions.php:560
+msgid "options"
+msgstr ""
+
+#: ./campus-directory/includes/common-functions.php:1075
+#: ./campus-directory/includes/common-functions.php:1089
+msgid "Please refresh the page and try again."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:300
+msgid "Emd Form Builder makes it easy to create simple or advanced forms with a few clicks."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:300
+msgid "Click here to learn more."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:345
+msgid "Saved successfully."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:353
+msgid "Editing Form:"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:354
+msgid "Save"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:360
+msgid "Click here to add row"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:360
+msgid "Add Row"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:363
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:364
+msgid "Click here to add"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:363
+msgid "Divider"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:364
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:679
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1071
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1417
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1425
+msgid "HTML"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:368
+msgid "Click here to add a form wizard page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:368
+msgid "Add Page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:371
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:375
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1197
+msgid "Click to go to this page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:372
+msgid "Page 1"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:376
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:584
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:599
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:664
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:851
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1198
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1203
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1247
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1387
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1407
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1412
+msgid "Delete"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:377
+msgid "Page %s"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:383
+msgid "Fields"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:457
+msgid "Drag this field to a row."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:469
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:485
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:512
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:539
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:556
+msgid "Drag this field to a row - available in premium edition."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:496
+msgid "Drag this field to a row"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:558
+msgid "Login Box"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:585
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:665
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1204
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1248
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1388
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1408
+msgid "Drag to reorder"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:600
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:852
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1413
+msgid "Drag to reorder / Click for settings"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:668
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1207
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1251
+msgid "Drag fields here"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:792
+msgid "Hidden field"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:796
+msgid "Global field"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1013
+msgid "There are no settings options for hidden fields."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1017
+msgid "There are no settings options for global fields."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1021
+msgid "Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1030
+msgid "Required"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1033
+msgid "Size"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1043
+msgid "Size column refers to the form elements length relative to the other elements in the same row. Total element size in each row can not exceed 12 units."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1046
+msgid "Description"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1054
+msgid "Placeholder"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1058
+msgid "Css Class"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1078
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1216
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1226
+msgid "Step Title"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1086
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1220
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1230
+msgid "Step Description"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1097
+msgid "Login Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1103
+msgid "Already have an account? Login."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1107
+msgid "Register Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1113
+msgid "Need to create an account? Register."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1117
+msgid "Login Username Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1123
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1160
+msgid "Username"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1127
+msgid "Login Password Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1133
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1170
+msgid "Password"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1137
+msgid "Redirect Link"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1143
+msgid "If left empty after login user will be redirected to single entity page."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1151
+msgid "Enable Registration"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1154
+msgid "Registration Username Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1164
+msgid "Registration Password Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1174
+msgid "Registration Confirm Password Label"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1180
+msgid "Confirm Password"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1199
+msgid "Page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1416
+msgid "Click to go to settings"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-builder.php:1434
+msgid "Login / Register Box"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:79
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:2024
+msgid "Invalid username"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:83
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:2021
+msgid "Username already taken"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:124
+msgid "Please try again"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:131
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1019
+msgid "Please enter same password."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:138
+msgid "Please enter username."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:141
+msgid "Please enter password."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:144
+msgid "Please enter confirm password."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:652
+msgid "app"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1035
+msgid "Please enter a unique value."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1036
+msgid "This email has been already registered."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1177
+msgid "File Upload"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1182
+msgid "ERROR:"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1184
+msgid "File size is greater than allowed limit."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1185
+msgid "Maximum number of allowable file uploads has been exceeded."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1443
+msgid "Submit"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1888
+msgid "Login"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1950
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-frontend.php:1953
+msgid "The password or username you entered is incorrect."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-functions.php:162
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-functions.php:217
+msgid "Show Form"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-functions.php:164
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-functions.php:219
+msgid "Hide Form"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-functions.php:1024
+msgid "Current Page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-functions.php:1030
+msgid "Selected"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:18
+msgid "General"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:19
+msgid "Display"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:20
+msgid "Submissions"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:22
+msgid "Confirmations"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:24
+msgid "Scheduling"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:25
+msgid "Anti Spam"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:27
+msgid "Pages"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:33
+msgid "Code"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:42
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:47
+msgid "Form Settings:"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:50
+msgid "Error when saving."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:84
+msgid "Login Form only"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:96
+msgid "Name"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:98
+msgid "Entity"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:100
+msgid "Displays or hides registration and login forms on this form for non-logged-in users."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:101
+msgid "You are not allowed to access to this area. Please contact the site administrator."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:105
+msgid "Desktops"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:106
+msgid "Phones"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:107
+msgid "Tablets"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:108
+msgid "Large Desktops"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:110
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:238
+msgid "Top"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:111
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:158
+msgid "Left"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:112
+msgid "Inside"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:114
+msgid "Medium"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:115
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:148
+msgid "Small"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:116
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:147
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:152
+msgid "Large"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:118
+msgid "Targeted Device"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:119
+msgid "Label Placement"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:120
+msgid "Sets the field label position relative to the field input location. Options are Top,Left or Inside. Pick your label placement based on the space you have available for the form. Min 680px required for inside/top label placement with 3 column layout. If you enabled operators in your search form, you will need more space for multi-layout designs. You can always adjust the width css element of your form container when needed. Enabling operators will give access to all of your data so limiting access by role may always be a good idea."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:122
+msgid "Element Size"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:123
+msgid "Display Radios and Checkboxes Inline"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:124
+msgid "Do not autofill Logged-in User Information"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:125
+msgid "Form Class"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:129
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:245
+msgid "Publish"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:130
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:246
+msgid "Draft"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:131
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:247
+msgid "Future"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:132
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:248
+msgid "Private"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:133
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:249
+msgid "Trash"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:135
+msgid "Standard (White - #FFFFF)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:136
+msgid "Primary (Blue - #006DCC)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:137
+msgid "Info (Light Blue - #49AFCD)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:138
+msgid "Success (Green - #5BB75B)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:139
+msgid "Warning (Orange - #FAA732)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:140
+msgid "Danger (Red - #DA4F49)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:141
+msgid "Inverse (Black - #363636)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:142
+msgid "Link (Blue -  #0088CC)"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:143
+msgid "Custom"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:145
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:151
+msgid "Standard"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:146
+msgid "XLarge"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:149
+msgid "Mini"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:153
+msgid "2x"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:154
+msgid "3x"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:155
+msgid "4x"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:156
+msgid "5x"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:159
+msgid "Right"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:188
+msgid "Show text"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:189
+msgid "Redirect"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:190
+msgid "Go to another form"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:210
+msgid "Thanks for your submission."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:211
+msgid "There has been an error when submitting your entry. Please contact the site administrator."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:221
+msgid "Never Show"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:222
+msgid "Always Show"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:223
+msgid "Visitors Only"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:232
+msgid "Tabs"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:233
+msgid "Arrows"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:234
+msgid "Circles"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:235
+msgid "Dots"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:237
+msgid "Bottom"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:239
+msgid "Both"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:242
+msgid "Slide"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:243
+msgid "Fade"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:251
+msgid "Wizard Style"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:252
+msgid "Display Vertical Wizard Steps"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:253
+msgid "Wizard Button Toolbar"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:255
+msgid "Wizard Transition Effect"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:257
+msgid "Save Wizard Step Data"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:300
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:303
+msgid "Basic HTML Table"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:300
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:303
+msgid "Advanced Datagrid Table"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:300
+msgid "Default"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:306
+msgid "Enable Ajax"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:307
+msgid "Enable Search Operators"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:308
+msgid "Display Records On Page Load"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:309
+msgid "Result Template Type"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:311
+msgid "Click to Select"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:312
+msgid "Show Columns"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:313
+msgid "Show Export"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:314
+msgid "Show Toggle"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:315
+msgid "Show All Records"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:316
+msgid "Page Size"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:317
+msgid "Page List"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:317
+msgid "Enter semicolon separated values such as 10, 20, 50, all"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:318
+msgid "Maintain Selected on Page Change"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:319
+msgid "Result Fields"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:320
+msgid "No Result Message"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:320
+msgid "Your search returned no results."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:324
+msgid "CDN CSS File"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:324
+msgid "Enter semicolon separated CSS file urls starting with http(s)."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:325
+msgid "CDN JS File"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/emd-form-settings.php:325
+msgid "Enter semicolon separated JavaScript file urls starting with http(s)."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:56
+msgid "Login/Register:"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:56
+msgid "Use the options below to customize Login page."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:61
+msgid "Login Page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:83
+msgid "Use [emd_login app=\"%s\"] shortcode in your page. Attributes: ent=\"emd_customer,emd_vendor\" show_reg=1 , reg_label=\"\",reg_link=\"\",show_lost=1  "
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:85
+msgid "Password Reset Message Subject"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:94
+msgid "Password Reset Message"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:111
+msgid "Use these template tags to customize your email: {username}, {password_reset_link}, {sitename}"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:116
+msgid "User Role Redirects"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:118
+msgid "Set a redirect url which users belonging to a role will be redirected to after a successful login or logout."
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:127
+msgid "%s Login"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:135
+msgid "If left empty, user will be directed to the corresponding user entity page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:138
+msgid "If left empty, user will be directed to the site's homepage"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:142
+msgid "%s Logout"
+msgstr ""
+
+#: ./campus-directory/includes/emd-form-builder-lite/settings-functions-login.php:149
+msgid "If left empty user, will be directed to the login page"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:38
+msgid "<strong>After purchasing the premium edition, please remove the free plugin</strong>. Don't worry, all your records will be preserved."
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:47
+msgid "Check out <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">our documentation</a> for step-by-step instructions."
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:253
+msgid "Import, Export and Update %s From/To CSV"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:254
+msgid "Do you have hundreds of %s in a spreadsheet and think about how to get them in WordPress? No problem!"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:256
+msgid "Sometimes, adding or updating %s one by one is NOT the smartest thing to do. Bulk import, update and take snapshots at will - more time to play!"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:260
+msgid "Get your %s in %s fast"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:261
+msgid "Bulk update %s with a single click"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:262
+msgid "Take periodic backups to protect yourself against data loss"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:263
+msgid "Reset and start from scratch anytime"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:266
+msgid "Create custom fields with ease"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:267
+msgid "Migrate %s from one site to another with ease"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:277
+msgid "Get your YouTube videos and update stats with a few clicks"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:278
+msgid "You can get your YouTube videos in WordPress and update their stats on demand or schedule. Bonus: Video updates are done automatically. "
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:280
+msgid "You can add multiple playlists and/or usernames and decide how often you want to get new videos or make updates to existing ones. Easy!"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:284
+msgid "Import from unlimited playlists"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:285
+msgid "Import from unlimited usernames"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:286
+msgid "On-demand video imports and updates"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:287
+msgid "On-schedule imports and updates"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:290
+msgid "Set your batch size for each run"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:291
+msgid "On-demand video stat updates"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:302
+msgid "Gather, display and search information with ease"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:303
+msgid "EMD Custom Field Builder is an easy to use yet powerful tool to customize your plugin by adding custom fields and taxonomies. "
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:305
+msgid "Learn more"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:309
+msgid "Create unlimited number of custom fields"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:310
+msgid "Provide additional level of information"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:311
+msgid "Include custom fields in submit forms to gather information *"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:312
+msgid "Include custom fields in search forms to allow finding information *"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:313
+msgid "Create 55+ different types of custom fields"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:316
+msgid "Create 4 types of custom taxonomies to group and categorize information"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:317
+msgid "Make custom fields as \"Required\" not to allow empty values"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:318
+msgid "Set a default value to offer initial option"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:319
+msgid "Enable or disable custom fields with a single click"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:320
+msgid "Limit access to information by displaying custom fields to selected user roles only"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:372
+#: ./campus-directory/includes/emd-lite/emd-lite.php:373
+msgid "Update to a Premium Edition to unlock Filters & Columns"
+msgstr ""
+
+#: ./campus-directory/includes/emd-lite/emd-lite.php:373
+msgid "Filters &amp; Columns"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:154
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:155
+msgid "Custom field updated."
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:156
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:157
+msgid "%s updated."
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:159
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:160
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:161
+msgid "%s saved."
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:162
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:163
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:163
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:164
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:183
+msgid "CSV Import/Export"
+msgstr ""
+
+#: ./campus-directory/includes/entities/class-emd-entity.php:608
+msgid "Duplicate"
+msgstr ""
+
+#: ./campus-directory/includes/login-register-functions.php:31
+msgid "Invalid username, email or password."
+msgstr ""
+
+#: ./campus-directory/includes/login-register-functions.php:54
+msgid "Please enter at least 5 characters."
+msgstr ""
+
+#: ./campus-directory/includes/login-register-functions.php:56
+msgid "Email address already taken."
+msgstr ""
+
+#: ./campus-directory/includes/login-register-functions.php:113
+msgid "Email aready exists"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-archive.php:43
+msgid "No archive records have been found."
+msgstr ""
+
+#: ./campus-directory/layouts/emd-archive.php:71
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-archive.php:73
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:8
+msgid "Username or Email"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:10
+msgid "Username or Email field is required"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:23
+msgid "Password field is required"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:32
+msgid "Remember Me"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:39
+msgid "Log In"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:44
+msgid "Lost Password?"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-login.php:49
+msgid "Register"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-register.php:10
+msgid "Username field is required"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-register.php:21
+msgid "Email"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-register.php:23
+msgid "Email field is required"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-register.php:34
+msgid "First Name"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-register.php:43
+msgid "Last Name"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-register.php:67
+msgid "Confirm Password field is required"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-single.php:48
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-single.php:49
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./campus-directory/layouts/emd-taxonomy.php:45
+msgid "No records have been found matching the term."
+msgstr ""
