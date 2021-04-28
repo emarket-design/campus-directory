@@ -3,13 +3,13 @@
 <br />
 <p align="center">
   <a href="https://emdplugins.com/plugins/campus-directory-wordpress-plugin/">
-    <img src="github/campusdir-logo-250x150.gif" alt="Logo">
+    <img src="github/campusdir-logo-272x41.png" alt="Logo">
   </a>
 
   <h3 align="center">Campus Directory</h3>
 
   <p align="center">
-    Campus Directory Higher Education Edition provides search and display capabilities for faculty, staff and student information
+    Fastest and easiest way to locate your campus faculty, staff and students while improving internal and external communication.
     <br />
     <br />
      <a href="https://github.com/emarket-design/campus-directory/issues">Report Bug</a>
@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Campus Directory Screen Shot](github/campus_directory_enterprise_540.png)
+![Campus Directory Screen Shot](github/campus_directory_pro_540.png)
 
 
 <ul>
